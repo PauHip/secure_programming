@@ -1,0 +1,1 @@
+$test1 = pg_query("select * from test_db);
